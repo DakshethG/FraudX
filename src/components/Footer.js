@@ -4,7 +4,7 @@ import "../index.css";
 const Footer = () => {
   return (
     <footer className="footer">
-      <p>&copy; 2025 Fraud Detection System. All Rights Reserved.</p>
+      <p>&copy; 2025 FraudX. All Rights Reserved.</p>
     </footer>
   );
 };
